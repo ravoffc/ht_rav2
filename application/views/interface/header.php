@@ -18,12 +18,12 @@
         </div>
         <ul class="nav justify-content-end">
             <li class="nav-item">
-                <a class="nav-link active" href="<?= base_url(); ">Hotel</a>
+                <a class="nav-link active" href="#">Kamar</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Kamar</a>
+                <a class="nav-link" href="#">Fasilitas Kamar</a>
             </li>
             <li class="nav-item">
-                <a class="nav-link" href="#">Fasilitas</a>
+                <a class="nav-link" href="#">Fasilitas Hotel</a>
             </li>
         </ul>

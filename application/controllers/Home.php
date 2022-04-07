@@ -5,7 +5,7 @@ class Home extends CI_Controller {
     {
         $data['judul'] = 'ravoffc | Hotel Hebat';
         $this->load->view('templates/header', $data);
-        $this->load->view('home/index', $data);
+        $this->load->view('users/home/index', $data);
         $this->load->view('templates/footer');
     }
 }
